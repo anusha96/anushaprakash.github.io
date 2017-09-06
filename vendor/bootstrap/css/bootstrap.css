@@ -92,8 +92,8 @@ body {
   font-size: 1rem;
   font-weight: normal;
   line-height: 1.5;
-  color: #212529;
-  background-color: #fff;
+  color: red;
+  background-color: #FFBB00;
 }
 
 [tabindex="-1"]:focus {
@@ -260,7 +260,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #868e96;
+  color: #FFBB00;
   text-align: left;
   caption-side: bottom;
 }
@@ -2206,7 +2206,7 @@ fieldset[disabled] a.btn {
 
 .btn-dark:active, .btn-dark.active,
 .show > .btn-dark.dropdown-toggle {
-  background-color: #23272b;
+  background-color: #FFBB00;
   background-image: none;
   border-color: #1d2124;
 }
